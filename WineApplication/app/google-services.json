@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896381857017",
+    "firebase_url": "https://wineapp-7cf68.firebaseio.com",
+    "project_id": "wineapp-7cf68",
+    "storage_bucket": "wineapp-7cf68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896381857017:android:89d2e60eb880f347",
+        "android_client_info": {
+          "package_name": "com.diploma.wineapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896381857017-eoe699o8kdnc2u18v3vkvhbn6dsc189k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEfdw6wgjBT70uobWuNIXi-H0RbjmIj9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
